@@ -1,0 +1,9 @@
+{
+  "domain": "multi-rgbw",
+  "name": "Multi-RGBW String Custom Controller",
+  "version": "0.0.1",
+  "config_flow": true,
+  "documentation": "https://github.com/threes-a-crowd/home-assistant-multi-rgbw",
+  "codeowners": ["@threes-a-crowd"],
+  "issue_tracker": "https://github.com/threes-a-crowd/home-assistant-multi-rgbw/issues",
+}
