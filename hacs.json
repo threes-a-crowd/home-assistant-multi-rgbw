@@ -1,0 +1,6 @@
+{
+  "name": "Multi-RGBW Controller",
+  "render_readme": true,
+  "country": "UK",
+  "domains": ["light"], 
+}
